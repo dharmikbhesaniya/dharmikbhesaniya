@@ -1,71 +1,73 @@
 # Architecture Notes
 
-These notes document general software architecture principles and patterns that I study and apply in engineering work.
+These notes capture how I think about software architecture and the trade-offs that come with different system designs.
 
-They are intentionally technology-agnostic where possible.
+I prefer architecture discussions that start with the problem rather than the technology.
 
-## Architecture Principles
+## Start With the Problem
 
-I generally consider:
+Before choosing an architecture, I want to understand:
 
-- Clear service and module boundaries
-- Separation of responsibilities
-- Explicit data ownership
-- Maintainability
-- Scalability
-- Reliability
-- Security
-- Observability
-- Operational complexity
-- Cost
+- What are we building?
+- Who uses it?
+- What constraints exist?
+- What needs to scale?
+- What can fail?
+- What needs to remain simple?
 
-## Service-Oriented Architecture
+The architecture should follow those answers.
 
-For larger applications, I am interested in separating systems into well-defined services when the boundaries and operational trade-offs justify doing so.
+## Boundaries
 
-A service boundary should represent a meaningful business or technical responsibility rather than simply splitting an application into smaller pieces.
+Good boundaries make systems easier to understand and change.
+
+Depending on the application, those boundaries may exist between modules, domains, services, or independently deployed systems.
+
+I don't split a system into services simply because the application has grown large. There should be a reason for the boundary.
 
 ## Communication
 
-Depending on the requirement, communication can use:
+Depending on the requirements, communication may use:
 
 - REST
 - GraphQL
 - gRPC
 - Message brokers
-- Event-driven communication
+- Domain events
 
-The choice depends on coupling, latency, interoperability, reliability, and operational requirements.
+The choice depends on coupling, latency, reliability, interoperability, and consistency requirements.
 
 ## Data Ownership
 
-Distributed systems benefit from clear ownership of data.
+Clear data ownership becomes especially important in distributed systems.
 
-I am particularly interested in database-per-service architectures, asynchronous data propagation, caching, and the trade-offs involved in maintaining consistency across services.
+I am interested in database-per-service designs, asynchronous data propagation, caching, and the trade-offs involved in maintaining consistency between services.
 
 ## Scalability
 
-Scalability is not only about adding more machines.
+Scalability is more than adding machines.
 
-It also requires considering:
+It can involve:
 
 - Stateless application design
-- Database bottlenecks
+- Database capacity
 - Caching
-- Asynchronous workloads
-- Queue-based processing
+- Asynchronous processing
+- Queue-based workloads
 - Horizontal scaling
 - Failure isolation
 
 ## Security
 
-Architecture should include security boundaries from the beginning, including identity, authorization, secrets, network boundaries, service permissions, and secure communication.
+Architecture should establish security boundaries early.
 
-## Architecture Trade-offs
+That includes identity, authorization, secrets, service permissions, network boundaries, and secure communication.
 
-There is rarely one universally correct architecture.
+## Trade-offs
 
-I prefer evaluating an architecture according to the actual requirements, constraints, operational complexity, and expected evolution of the system.
+There is rarely one architecture that is correct for every situation.
+
+I prefer understanding what a design makes easier, what it makes harder, and whether that trade-off is justified by the actual problem.
 
 ---
 

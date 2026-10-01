@@ -1,35 +1,35 @@
 # Microservices Notes
 
-Microservices are useful when service boundaries solve a real organizational, scaling, deployment, or ownership problem.
+I don't start with microservices.
 
-They also introduce significant operational complexity, so I treat them as an architectural choice rather than a default pattern.
+For many applications, a well-structured modular system is enough. I consider microservices when independent ownership, deployment, scaling, reliability, or domain boundaries justify the additional complexity.
 
 ## Service Boundaries
 
 A service should have a clear responsibility and a well-defined interface.
 
-Good boundaries help reduce unnecessary coupling and make ownership clearer.
+A useful boundary should reduce unnecessary coupling rather than simply move code into another repository.
 
 ## Communication
 
-Common communication patterns include:
+Common patterns include:
 
-- Synchronous HTTP/REST
+- REST
 - gRPC
 - Asynchronous messaging
 - Domain events
 
-The appropriate choice depends on latency, coupling, reliability, and consistency requirements.
+The right choice depends on latency, coupling, reliability, and consistency requirements.
 
 ## Data Ownership
 
 Each service should have clear ownership of the data it manages.
 
-Directly sharing databases between independent services can create strong coupling and make independent evolution more difficult.
+Sharing the same database directly between independent services can create strong coupling and make independent evolution difficult.
 
 ## Event-Driven Systems
 
-Events can help services communicate asynchronously and reduce direct dependencies.
+Events can reduce direct dependencies and allow services to communicate asynchronously.
 
 Important concerns include:
 
@@ -43,7 +43,7 @@ Important concerns include:
 
 ## Reliability
 
-Distributed systems require explicit handling of failure.
+Distributed systems make failure more visible.
 
 Important patterns include:
 
@@ -56,13 +56,13 @@ Important patterns include:
 
 ## Deployment
 
-Containers make it easier to package and deploy independent services consistently.
+Containers provide a consistent way to package services.
 
-Cloud platforms and orchestration systems can then provide scheduling, scaling, networking, and operational capabilities.
+Orchestration platforms can then handle scheduling, networking, scaling, and other operational concerns.
 
 ## Observability
 
-A distributed application should provide enough information to understand what happened across service boundaries.
+Once an application is distributed, it becomes important to understand what happened across service boundaries.
 
 Useful signals include:
 
@@ -74,7 +74,7 @@ Useful signals include:
 
 ## Security
 
-Each service should operate with appropriate authentication, authorization, and least-privilege access.
+Each service should have appropriate authentication, authorization, and least-privilege access.
 
 ---
 

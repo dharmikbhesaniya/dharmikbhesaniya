@@ -5,7 +5,7 @@
 **Jain (Deemed-to-be) University**  
 July 2025 – Present
 
-Part-time / online postgraduate study focused on continuing my computer science and software engineering education alongside professional work.
+Part-time / online postgraduate study pursued alongside professional software engineering work.
 
 ## Bachelor of Computer Applications (BCA)
 
@@ -13,7 +13,7 @@ Completed undergraduate studies in computer applications.
 
 ## Continuous Learning
 
-My formal education is complemented by continuous practical learning across:
+My formal education is supported by hands-on learning across:
 
 - Backend engineering
 - Distributed systems
@@ -22,11 +22,11 @@ My formal education is complemented by continuous practical learning across:
 - DevSecOps
 - Kubernetes
 - Terraform
-- AI engineering
 - System architecture
-- Security
+- Application security
+- AI engineering
 
-I learn primarily by combining technical study with hands-on engineering and project work.
+I learn by combining technical study with practical projects and experimentation.
 
 ---
 

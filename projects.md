@@ -1,40 +1,69 @@
 # Projects
 
-My project experience covers business applications, backend systems, cloud infrastructure, authentication, automation, and AI-enabled software.
+My project work spans business applications, backend systems, cloud infrastructure, authentication, automation, and AI-enabled software.
 
-## Business & SaaS Applications
+Some projects were developed professionally or for private use, so the descriptions below intentionally stay at a level that can be shared publicly.
 
-I have worked on applications covering areas such as:
+## Business Applications
 
-- Human resource management
-- Finance management
-- Restaurant operations
-- Import/export business workflows
-- Clinical laboratory workflows
+### HR & Business Management
 
-These projects involved full-stack development, backend APIs, databases, authentication, and integration with external or internal services.
+Experience building business applications around employee management, organizational workflows, operational processes, authentication, and reporting.
 
-## Operational & Mobile Applications
+**Focus:** Full-stack development, backend APIs, PostgreSQL, business workflows, and application architecture.
 
-My experience also includes operational software such as warehouse and scanning applications, including mobile-oriented workflows and local data handling.
+### Finance Management
+
+Worked on finance-oriented software involving financial workflows and integration with external accounting services.
+
+**Focus:** Backend architecture, integrations, data handling, and application workflows.
+
+### Restaurant Software
+
+Worked on restaurant-focused software covering application workflows, backend services, and operational functionality.
+
+**Focus:** Full-stack development, APIs, database design, and application integration.
+
+### Import / Export Business Software
+
+Built software for an import/export business covering product information, business workflows, and a public-facing web presence.
+
+**Focus:** Web application development, SEO-oriented architecture, product data, and business workflows.
+
+### Clinical Laboratory Software
+
+Worked on software related to clinical laboratory workflows.
+
+**Focus:** Java, Spring Boot, backend services, authentication, and application integration.
+
+## Operational & Mobile Software
+
+### Warehouse & Scanning
+
+Worked on warehouse-oriented software involving scanning and operational workflows.
+
+**Focus:** React Native, local data handling, operational UI, and mobile workflows.
 
 ## Authentication & Identity
 
-I have designed and explored authentication and SSO systems involving concepts such as:
+I have designed and explored centralized authentication and SSO systems covering:
 
-- Centralized authentication
-- JWT-based sessions
+- JWT-based authentication
 - Multi-device sessions
-- Session management
+- Session tracking and revocation
+- Centralized authentication
 - TOTP
 - Passkeys / WebAuthn
-- Backup authentication mechanisms
+- Backup authentication
+- Role and permission models
+
+The work is focused on understanding identity as a system rather than treating login as a single API endpoint.
 
 ## AI & Media Software
 
-I am interested in software that combines AI with media, data, automation, and knowledge extraction.
+I’m exploring software that combines AI with media, data, and automation.
 
-This includes areas such as:
+Areas include:
 
 - Video and media processing
 - Speech and text extraction
@@ -44,24 +73,24 @@ This includes areas such as:
 - AI-assisted workflows
 - Intelligent automation
 
+Some of these projects are experimental or under active development and are not publicly documented in detail.
+
 ## Cloud & Developer Infrastructure
 
-I also build and explore tools around:
+I also build and explore software around:
 
 - Application deployment
 - Cloud infrastructure
 - Containerized workloads
-- Developer workflows
 - Infrastructure automation
+- Developer workflows
 - Operational tooling
 
 ## Independent Products
 
-Some of my current work is focused on building independent software products.
+I am actively exploring independent software products alongside my engineering career.
 
-I intentionally keep unreleased product names, detailed ideas, internal workflows, architecture, implementation decisions, infrastructure topology, roadmap, and business strategy private.
-
-Public project information will be shared when a product reaches a stage where it can be discussed openly.
+I keep unreleased product names, detailed product ideas, internal workflows, architecture, implementation decisions, infrastructure topology, roadmaps, business logic, and competitive strategy private until the products are ready to be discussed publicly.
 
 ---
 

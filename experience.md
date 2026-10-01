@@ -6,7 +6,7 @@
 
 I work as a Software Engineer across backend systems, full-stack applications, databases, cloud services, and application architecture.
 
-My experience includes working with production applications and systems involving:
+My professional experience includes working with production applications built around:
 
 - Node.js and NestJS
 - Java and Spring Boot
@@ -14,49 +14,43 @@ My experience includes working with production applications and systems involvin
 - PostgreSQL and MongoDB
 - Redis and Elasticsearch
 - Neo4j
-- GraphQL and REST APIs
-- AWS services
-- Docker and containerized applications
+- REST and GraphQL APIs
+- AWS
+- Docker
 - Microservices
 - Event-driven architecture
 
-### Engineering Responsibilities
+## What I Work On
 
-My work has involved:
+My responsibilities have included:
 
 - Designing and implementing backend APIs
-- Developing full-stack application features
-- Working with relational and NoSQL databases
-- Integrating cloud services
-- Building service-oriented application architectures
+- Building full-stack application features
+- Designing data models and working with relational and NoSQL databases
+- Integrating external and cloud services
+- Structuring application modules and service boundaries
 - Working with asynchronous and event-driven workflows
 - Improving application performance and maintainability
 - Supporting deployment and operational workflows
 - Working across application and infrastructure boundaries
 
-### Engineering Growth
+## Engineering Growth
 
-My professional experience has progressively expanded from application development toward broader system design, cloud infrastructure, distributed systems, security, and DevOps practices.
+My role has gradually expanded from feature development into broader system design and engineering concerns.
 
-I am currently deepening my practical experience with Kubernetes, Terraform, cloud-native infrastructure, and DevSecOps.
+That includes learning how applications behave in production, how services communicate, how infrastructure affects application design, and how security needs to be considered throughout the lifecycle.
+
+I am currently building deeper practical experience with Kubernetes, Terraform, cloud-native infrastructure, and DevSecOps.
 
 ## Independent Product Development
 
 Alongside my professional role, I build and explore independent software products.
 
-This work gives me the opportunity to think beyond implementation and work through:
+This gives me the opportunity to work through the full product cycle:
 
-- Problem discovery
-- Product validation
-- Technical feasibility
-- Architecture
-- MVP development
-- Cloud and deployment considerations
-- Security
-- Automation
-- Product iteration
+**Problem → Validation → Technical Feasibility → Architecture → MVP → Deployment → Iteration**
 
-Private product concepts and implementation details are intentionally not documented publicly.
+I intentionally do not publish private product concepts, internal implementation details, infrastructure topology, roadmaps, business logic, or strategy.
 
 ---
 

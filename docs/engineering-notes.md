@@ -1,12 +1,10 @@
 # Engineering Notes
 
-This section contains general engineering notes, patterns, and lessons learned from software development.
+This section contains general engineering notes and technical thinking from software development and experimentation.
 
-The purpose is to document principles and technical thinking that can be useful across different projects.
+The goal is not to document every implementation detail, but to keep useful engineering ideas in one place.
 
-## Topics
-
-Current areas of interest include:
+## Areas I Keep Exploring
 
 - Backend architecture
 - API design
@@ -25,26 +23,32 @@ Current areas of interest include:
 - AI engineering
 - System design
 
-## Engineering Approach
+## Questions I Usually Ask
 
-When evaluating a technical solution, I try to consider:
+When evaluating a technical solution, I try to work through:
 
 1. What problem are we solving?
 2. What constraints exist?
-3. What are the simplest viable options?
-4. What trade-offs does each option introduce?
-5. How will the system behave under failure?
-6. How will it be deployed and operated?
-7. How will security be handled?
-8. How difficult will it be to maintain?
+3. What is the simplest solution that could work?
+4. What trade-offs does it introduce?
+5. What happens when something fails?
+6. How will it be deployed?
+7. How will it be secured?
+8. How difficult will it be to operate and maintain?
+
+## Keep the System Understandable
+
+Complexity is sometimes necessary, but unnecessary complexity has a cost.
+
+I prefer adding infrastructure, services, abstractions, and dependencies when they solve a real problem rather than because they are common patterns.
 
 ## Public vs Private Work
 
-These notes contain general engineering knowledge and publicly shareable technical thinking.
+These notes contain general engineering knowledge and technical thinking that can be shared publicly.
 
-They intentionally do not document proprietary product information.
+They intentionally do not contain proprietary product information.
 
-Private product concepts, internal architecture, implementation details, workflows, infrastructure topology, AI pipelines, business logic, roadmaps, and competitive strategy are kept outside this repository.
+Private product concepts, internal architecture, implementation details, workflows, infrastructure topology, AI pipelines, business logic, roadmaps, and competitive strategy remain private.
 
 ---
 

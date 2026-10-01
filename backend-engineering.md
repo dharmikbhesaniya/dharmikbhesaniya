@@ -1,10 +1,10 @@
 # Backend Engineering
 
-Backend engineering is one of my primary areas of focus.
+Backend engineering is one of my main areas of work.
 
-I work with both Node.js/TypeScript and Java/Spring Boot, with an emphasis on API design, maintainability, data architecture, and scalable service design.
+I work primarily with Node.js/TypeScript and Java/Spring Boot, with an emphasis on APIs, data, service boundaries, reliability, and maintainable system design.
 
-## Technologies
+## Backend Development
 
 - Node.js
 - NestJS
@@ -30,9 +30,11 @@ Areas I work with and study include:
 - API gateways
 - Distributed systems
 
-## Data & Performance
+I don't treat microservices as the default answer. The architecture should match the application's actual requirements and constraints.
 
-Backend systems require careful data and performance decisions. My experience includes:
+## Data
+
+My backend work includes:
 
 - PostgreSQL
 - MongoDB
@@ -40,16 +42,16 @@ Backend systems require careful data and performance decisions. My experience in
 - Elasticsearch
 - Neo4j
 - Prisma
+- Data modeling
 - Query optimization
 - Caching
 - Search-oriented systems
-- Data modeling
 
 ## Reliability
 
-I am interested in designing systems that remain understandable and reliable as they grow.
+As systems grow, I pay attention to how they behave when things go wrong.
 
-Topics I focus on include:
+Areas I focus on include:
 
 - Failure handling
 - Idempotency
@@ -62,8 +64,8 @@ Topics I focus on include:
 
 ## Security
 
-Backend security is considered throughout API and service design, including authentication, authorization, session management, token handling, and secure service communication.
+Security is considered as part of backend design, including authentication, authorization, session management, token handling, secrets, and secure service communication.
 
 ---
 
-[Back to README](README.md)
+[Back to README](../README.md)

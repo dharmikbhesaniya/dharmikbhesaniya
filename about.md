@@ -1,45 +1,65 @@
 # About Dharmik Bhesaniya
 
-I’m a Software Engineer focused on backend engineering, full-stack development, cloud infrastructure, and scalable software systems.
+I’m a Software Engineer with a background in full-stack and backend development. Over the last few years, my work has gradually expanded from building application features to thinking more about architecture, infrastructure, security, deployment, and how systems behave in production.
 
-I enjoy working across the complete engineering lifecycle — from application design and API development to databases, deployment, security, and operations.
+I enjoy working on software where there is something to figure out rather than simply something to implement.
 
-## Engineering Focus
+## How I Work
 
-My work and learning are centered around:
+I usually start by understanding the problem and the constraints before deciding on the technology.
 
-- Backend engineering and API design
-- Full-stack web applications
-- Microservices and distributed systems
-- Event-driven architecture
-- Cloud-native applications
-- AWS and containerized deployments
-- CI/CD and infrastructure automation
-- Application and infrastructure security
-- AI-enabled software and automation
+That means thinking about questions such as:
 
-## Technical Direction
+- What actually needs to be solved?
+- Where should the responsibility live?
+- How should the data move through the system?
+- What happens when something fails?
+- How will the application be deployed?
+- What needs to be secured?
+- What will become difficult to maintain as the system grows?
 
-My strongest professional experience is around application and backend engineering. I am also continuing to build practical experience in cloud infrastructure, Kubernetes, Terraform, and DevSecOps.
+I don't believe every application needs microservices, Kubernetes, or a complicated infrastructure setup. The architecture should follow the problem.
 
-I prefer understanding the trade-offs behind a technology or architecture rather than adopting tools simply because they are popular.
+## Engineering Direction
+
+My strongest professional experience is in application and backend engineering.
+
+I’m now deliberately expanding deeper into:
+
+- Cloud infrastructure
+- DevOps
+- DevSecOps
+- Distributed systems
+- Kubernetes
+- Terraform
+- AI engineering
+
+I’m interested in the space where application engineering and infrastructure meet.
 
 ## Founder & Product Builder
 
-Alongside my professional engineering work, I build and explore independent software products.
+Alongside my professional work, I build and explore independent software products.
 
-My product interests include AI applications, developer tools, cloud and deployment automation, business workflow automation, SaaS, security and identity, and data or media intelligence.
+I enjoy the product side of engineering as much as the technical side — finding a problem, validating the idea, working out what is technically practical, building an initial version, and learning from it.
 
-I approach product development from both an engineering and product perspective — from identifying a problem and validating an opportunity to designing, building, deploying, and iterating on a solution.
+My current interests include AI applications, automation, developer tools, cloud and deployment tooling, business software, security and identity, and data or media intelligence.
 
-Some products are under active development and are intentionally kept private. Product-specific concepts, internal architecture, workflows, implementation details, infrastructure design, roadmap, and business strategy are not published here.
+Some of these products are still under development. I intentionally keep their product-specific concepts, internal workflows, architecture, implementation details, infrastructure, roadmaps, and business strategy private.
+
+## Outside the Code
+
+A large part of my learning comes from building things myself.
+
+I prefer taking a technology I understand in theory and trying to turn it into a working system. That is especially true for areas such as Kubernetes, Terraform, distributed systems, security, and AI.
 
 ## Education
 
 **Master of Computer Applications (MCA)**  
-Jain (Deemed-to-be) University
+Jain (Deemed-to-be) University  
+July 2025 – Present
 
-**Bachelor of Computer Applications (BCA)**
+**Bachelor of Computer Applications (BCA)**  
+Completed
 
 ---
 

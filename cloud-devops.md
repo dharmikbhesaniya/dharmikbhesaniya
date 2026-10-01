@@ -1,41 +1,44 @@
 # Cloud & DevOps
 
-My cloud and DevOps interests focus on making applications easier to deploy, operate, scale, and maintain.
+My cloud and DevOps work is about understanding what happens after an application leaves the developer's machine.
 
-## Cloud
+That includes packaging applications, deploying them, managing infrastructure, and understanding how the system behaves in production.
 
-My experience includes AWS services such as:
+## AWS
+
+My experience includes:
 
 - Amazon S3
 - Amazon EC2
 - Amazon ECS
 - Amazon ECR
 
-I use cloud services as part of application deployment and infrastructure design, while continuing to expand my understanding of cloud-native architecture.
+I am continuing to deepen my understanding of cloud-native architecture and infrastructure design.
 
-## Containers
+## Docker
 
-Docker is an important part of my development and deployment workflow.
+Docker is part of my development and deployment workflow.
 
-I use containerization to create consistent environments between development and deployment and to support service-oriented application architectures.
+I use containers to create consistent environments and to package applications and services for deployment.
 
 ## CI/CD
 
-I have worked with Jenkins and CI/CD concepts around:
+I have worked with Jenkins and CI/CD workflows involving:
 
 - Automated builds
+- Testing
 - Application packaging
 - Container workflows
 - Deployment pipelines
 - Environment-specific configuration
 
-## Infrastructure as Code
+## Terraform
 
-I am currently developing practical experience with Terraform and Infrastructure as Code.
+I am actively building practical experience with Terraform and Infrastructure as Code.
 
-My focus is on understanding how infrastructure can be defined, versioned, reviewed, and reproduced rather than managed manually.
+My focus is on understanding how infrastructure can be defined, versioned, reviewed, and reproduced instead of being configured manually.
 
-## Kubernetes
+## Kubernetes & EKS
 
 I am learning Kubernetes and Amazon EKS with a focus on:
 
@@ -49,14 +52,14 @@ I am learning Kubernetes and Amazon EKS with a focus on:
 - Cluster architecture
 - Container orchestration
 
-I do not present Kubernetes or Terraform as areas of expert-level production experience; they are active areas of practical learning and development.
+Kubernetes and Terraform are active areas of learning for me; I do not present them as expert-level production experience.
 
 ## DevOps Direction
 
-My broader goal is to understand the complete path from source code to production:
+I want to understand the complete path from source code to a running production system:
 
 **Code → Build → Test → Security → Container → Infrastructure → Deploy → Observe → Improve**
 
 ---
 
-[Back to README](README.md)
+[Back to README](../README.md)

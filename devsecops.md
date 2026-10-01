@@ -1,12 +1,12 @@
 # DevSecOps & Application Security
 
-Security is an important part of my engineering direction.
+Security is becoming a larger part of my engineering work as I move closer to infrastructure and production systems.
 
-My approach is to consider security throughout the software lifecycle rather than treating it as a final verification step.
+I think about security as part of the development lifecycle rather than something added immediately before release.
 
 ## Application Security
 
-Areas of focus include:
+Areas I work with or study include:
 
 - Secure API design
 - Authentication
@@ -19,7 +19,7 @@ Areas of focus include:
 
 ## Identity & Access
 
-I am interested in modern identity systems and have worked with or explored:
+I have worked with or explored:
 
 - JWT
 - SSO
@@ -29,10 +29,11 @@ I am interested in modern identity systems and have worked with or explored:
 - Multi-device sessions
 - Session revocation
 - Role and permission models
+- Spring Security
 
 ## CI/CD Security
 
-Security can be incorporated into delivery pipelines through:
+Security checks can be incorporated into delivery pipelines through:
 
 - Dependency scanning
 - Secret detection
@@ -43,7 +44,7 @@ Security can be incorporated into delivery pipelines through:
 
 ## Container & Cloud Security
 
-Areas I am studying include:
+I am continuing to study:
 
 - Secure container images
 - Least-privilege access
@@ -53,14 +54,14 @@ Areas I am studying include:
 - Infrastructure security
 - Secure deployment practices
 
-## DevSecOps Direction
+## Current Direction
 
-I am continuing to build practical experience across the intersection of software engineering, cloud infrastructure, automation, and security.
+My goal is to become stronger at the intersection of software engineering, cloud infrastructure, automation, and security.
 
-The objective is to make security a continuous engineering concern across:
+The lifecycle I am working toward understanding more deeply is:
 
 **Development → Build → Test → Deploy → Operate**
 
 ---
 
-[Back to README](README.md)
+[Back to README](../README.md)
