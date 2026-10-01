@@ -2,160 +2,75 @@
 
 **Software Engineer · Full-Stack & Backend · Cloud & DevOps · Founder & Product Builder**
 
-I’m a Software Engineer focused on building scalable backend systems, full-stack applications, cloud-native infrastructure, and developer-focused software.
+I’m a Software Engineer who likes working beyond a single layer of an application. Most of my experience is in full-stack and backend development, but I’m equally interested in what happens after the code is written — how the system is structured, deployed, secured, scaled, and maintained.
 
-I enjoy working across the complete engineering lifecycle — from designing APIs and application architecture to databases, distributed systems, deployment, security, and infrastructure.
+Alongside my professional work, I’m also building my own software products and experimenting with ideas around AI, automation, developer tools, and cloud infrastructure.
 
-Alongside my professional engineering work, I also build and explore independent software products around AI, automation, developer infrastructure, cloud platforms, and business software.
-
-Some of my independent products are under active development, so their internal product concepts, architecture, workflows, implementation details, and business strategy are intentionally kept private.
-
----
+Some of that work is still private, so I only share what I can publicly without exposing the product itself.
 
 ## What I Do
 
-- Build backend services and full-stack applications
-- Design APIs and service-oriented architectures
-- Work with microservices and distributed systems
-- Build applications using Node.js, NestJS, Java, and Spring Boot
-- Develop web applications with React, Vue, Next.js, and Nuxt.js
-- Work with PostgreSQL, MongoDB, Redis, Elasticsearch, and Neo4j
-- Build and deploy containerized applications on AWS
-- Work with CI/CD, Docker, and infrastructure automation
-- Explore Kubernetes, Terraform, and cloud-native engineering
-- Design authentication, authorization, and identity systems
-- Explore AI, LLM applications, RAG, and intelligent automation
-- Build and experiment with independent software products
+I mainly work on backend and full-stack applications, APIs, databases, and application architecture. Over time, my work has expanded into cloud infrastructure, distributed systems, deployment automation, security, and AI-powered applications.
 
----
+I enjoy problems where I need to understand how the whole system works rather than only implementing one feature.
 
-## Engineering Focus
+[View my technical skills →](skills.md)
 
-### Backend & Distributed Systems
-
-My primary engineering interests are backend architecture, API design, microservices, event-driven systems, distributed systems, data architecture, and scalable application design.
-
-**Technologies:**  
-`Node.js` · `NestJS` · `TypeScript` · `Java` · `Spring Boot` · `REST` · `GraphQL` · `gRPC` · `Apache Kafka`
-
-### Frontend
-
-I build modern web applications with an emphasis on maintainable architecture, performance, and strong integration with backend services.
-
-**Technologies:**  
-`React` · `Vue.js` · `Next.js` · `Nuxt.js` · `TypeScript` · `JavaScript` · `Pinia` · `Quasar`
-
-### Cloud & DevOps
-
-I work with cloud infrastructure and containerized application delivery, while continuing to deepen my practical experience in infrastructure automation and Kubernetes.
-
-**Technologies:**  
-`AWS` · `Docker` · `ECS` · `ECR` · `EC2` · `S3` · `Jenkins` · `CI/CD` · `Terraform` · `Kubernetes` · `EKS`
-
-### Security
-
-I’m interested in building security into application and infrastructure design rather than treating it as a final development step.
-
-Areas of interest include:
-
-`Authentication` · `Authorization` · `SSO` · `JWT` · `Session Management` · `TOTP` · `Passkeys/WebAuthn` · `Application Security` · `Container Security` · `CI/CD Security`
-
-### Data
-
-`PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch` · `Neo4j` · `Prisma`
-
----
-
+<!--
 ## Founder & Product Builder
 
-Beyond client and professional engineering work, I am building and exploring my own software products.
+Outside my day-to-day engineering work, I spend a lot of time exploring problems that could become useful software products.
 
-My product interests include:
+For me, that means more than coming up with an idea. I like working through whether the problem is worth solving, how the product should work, what is technically practical, and how to turn the first version into something people can actually use.
 
-- AI-powered applications
-- Developer and engineering tools
-- Cloud and deployment automation
-- Business workflow automation
-- SaaS platforms
-- Security and identity systems
-- Data and media intelligence
+I’m currently exploring products around AI, automation, developer infrastructure, cloud tooling, and business software.
 
-I approach product development from both an engineering and product perspective — understanding the problem, validating the opportunity, designing the solution, building the system, and iterating toward a useful product.
+I keep unreleased product ideas, internal workflows, architecture, implementation details, infrastructure, roadmaps, and business strategy private until they are ready to be shared.
 
-Detailed information about private products is intentionally not published while they are under development.
-
----
+[More about me →](about.md)
+-->
 
 ## Professional Experience
 
-I currently work as a Software Engineer at **Emperor Brains IT Solutions LLP**, where I have worked across backend systems, full-stack applications, databases, cloud services, microservices, and distributed application patterns.
+I’ve been working as a **Software Engineer at Emperor Brains IT Solutions LLP since August 2022**.
 
-My professional work has included technologies and systems involving:
+My work has given me experience across frontend and backend development, databases, cloud services, application architecture, integrations, and production systems.
 
-`Node.js` · `NestJS` · `Java` · `Spring Boot` · `React` · `Vue` · `AWS` · `Docker` · `PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch` · `Neo4j` · `GraphQL` · `Event-Driven Architecture`
+[View my professional experience →](experience.md)
 
-[View professional experience →](experience.md)
+## Projects
 
----
+I’ve worked on software across different domains, including business applications, finance, HR, restaurant systems, warehouse operations, clinical software, authentication systems, AI applications, and cloud tooling.
 
-## Selected Work
+I also use personal projects to explore ideas that go beyond what I work on professionally.
 
-My engineering work has covered different types of software, including:
+[Explore my projects →](projects.md)
 
-- Enterprise business applications
-- HR and finance platforms
-- Restaurant and operational systems
-- Warehouse and scanning applications
-- Clinical laboratory software
-- Import/export business platforms
-- Authentication and SSO systems
-- Media processing and AI applications
-- Cloud and deployment tooling
+## What I’m Learning Now
 
-[Explore projects →](projects.md)
+I’m currently putting more time into the areas that sit between application development and infrastructure — especially Kubernetes, Terraform, AWS architecture, distributed systems, and DevSecOps.
 
----
-
-## Currently Exploring
-
-I’m currently spending time deepening my knowledge and practical experience in:
-
-- Kubernetes and container orchestration
-- Terraform and Infrastructure as Code
-- AWS cloud architecture
-- DevSecOps
-- Distributed systems
-- AI engineering
-- LLM applications and RAG
-- Developer infrastructure
-- Product development
-
----
+I’m also exploring how LLMs, RAG, multimodal AI, and automation can be used to build practical products rather than just demos.
 
 ## Education
 
-**Master of Computer Applications (MCA)**  
-Jain (Deemed-to-be) University
+I’m currently pursuing a **Master of Computer Applications (MCA)** at **Jain (Deemed-to-be) University** while continuing to work full-time as a Software Engineer.
 
-**Bachelor of Computer Applications (BCA)**
+I previously completed my **Bachelor of Computer Applications (BCA)**.
 
 [View education →](education.md)
 
----
+## How I Think About Engineering
 
-## Engineering Philosophy
+I don’t like choosing technology just because it is popular. I prefer understanding the problem first and then deciding what architecture, tools, and infrastructure actually make sense for it.
 
-I care about more than making software work.
-
-I try to understand the complete system:
+When I look at a system, I usually think about the complete path:
 
 **Architecture → Code → Data → Infrastructure → Security → Deployment → Operations**
 
-Good engineering, in my view, requires understanding the trade-offs between scalability, reliability, security, maintainability, developer experience, and cost.
+The goal is not to make a system unnecessarily complex. It is to find the right balance between simplicity, scalability, reliability, security, maintainability, and cost.
 
----
-
-## Explore
+## More About My Work
 
 - [About Me](about.md)
 - [Professional Experience](experience.md)
@@ -169,8 +84,6 @@ Good engineering, in my view, requires understanding the trade-offs between scal
 - [Microservices Notes](docs/microservices.md)
 - [Engineering Notes](docs/engineering-notes.md)
 
----
+## Keywords
 
-## Connect
-
-**GitHub:** [github.com/dharmikbhesaniya](https://github.com/dharmikbhesaniya)
+Dharmik Bhesaniya, Software Engineer, Full-Stack Engineer, Backend Engineer, Software Developer, Node.js Developer, NestJS Developer, Java Developer, Spring Boot Developer, TypeScript Developer, JavaScript Developer, React Developer, Vue Developer, Next.js Developer, Nuxt.js Developer, AWS, Cloud Engineering, DevOps, DevSecOps, Microservices, Distributed Systems, Software Architecture, Cloud-Native Development, Docker, Kubernetes, Terraform, Jenkins, PostgreSQL, MongoDB, Redis, Elasticsearch, Neo4j, Apache Kafka, GraphQL, gRPC, CI/CD, Application Security, AI Engineering, LLM Applications, RAG, SaaS, Founder, Product Builder.
