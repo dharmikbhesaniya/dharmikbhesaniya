@@ -1,345 +1,176 @@
-## Hi there 👋
-
 # Dharmik Bhesaniya
 
-## Software Engineer | Full-Stack Engineer | Backend Engineer | Cloud & DevOps
+**Software Engineer · Full-Stack & Backend · Cloud & DevOps · Founder & Product Builder**
 
-Welcome to the GitHub profile of **Dharmik Bhesaniya**, a Software Engineer focused on building scalable web applications, backend systems, microservices, cloud infrastructure, and developer-focused platforms.
+I’m a Software Engineer focused on building scalable backend systems, full-stack applications, cloud-native infrastructure, and developer-focused software.
 
-I work across the full software engineering lifecycle — from designing frontend experiences and backend APIs to database architecture, distributed systems, cloud deployment, containerization, CI/CD, and infrastructure automation.
+I enjoy working across the complete engineering lifecycle — from designing APIs and application architecture to databases, distributed systems, deployment, security, and infrastructure.
 
-My primary engineering interests include **backend engineering, full-stack development, microservices architecture, AWS cloud, DevOps, DevSecOps, distributed systems, application security, and scalable SaaS platforms**.
+Alongside my professional engineering work, I also build and explore independent software products around AI, automation, developer infrastructure, cloud platforms, and business software.
 
----
-
-## About Dharmik Bhesaniya
-
-I am a Software Engineer with professional experience building and maintaining production software using modern frontend, backend, database, cloud, and infrastructure technologies.
-
-My engineering background includes:
-
-* Full-stack web application development
-* Backend and API engineering
-* Microservices architecture
-* Distributed systems
-* Cloud-native application development
-* AWS infrastructure and services
-* Docker and containerized applications
-* CI/CD and deployment automation
-* Database architecture and optimization
-* Event-driven systems
-* REST and GraphQL APIs
-* Authentication and authorization systems
-* Application security
-* DevOps and DevSecOps practices
-* AI-enabled software products
-
-I enjoy understanding systems from end to end — not only writing application code, but also understanding how applications are deployed, secured, monitored, scaled, and operated in production.
+Some of my independent products are under active development, so their internal product concepts, architecture, workflows, implementation details, and business strategy are intentionally kept private.
 
 ---
 
-## Core Engineering Focus
+## What I Do
 
-### Backend Engineering
-
-My backend development experience includes:
-
-* Node.js
-* NestJS
-* TypeScript
-* Java
-* Spring Boot
-* REST APIs
-* GraphQL
-* gRPC
-* Microservices
-* Event-driven architecture
-* Distributed systems
-* Authentication and authorization
-* API design
-* Database architecture
-* Caching
-* Message-driven applications
-
-I am particularly interested in designing backend systems that remain maintainable and scalable as application complexity and traffic increase.
+- Build backend services and full-stack applications
+- Design APIs and service-oriented architectures
+- Work with microservices and distributed systems
+- Build applications using Node.js, NestJS, Java, and Spring Boot
+- Develop web applications with React, Vue, Next.js, and Nuxt.js
+- Work with PostgreSQL, MongoDB, Redis, Elasticsearch, and Neo4j
+- Build and deploy containerized applications on AWS
+- Work with CI/CD, Docker, and infrastructure automation
+- Explore Kubernetes, Terraform, and cloud-native engineering
+- Design authentication, authorization, and identity systems
+- Explore AI, LLM applications, RAG, and intelligent automation
+- Build and experiment with independent software products
 
 ---
 
-## Frontend Engineering
+## Engineering Focus
 
-I have experience building modern web applications with:
+### Backend & Distributed Systems
 
-* React
-* Vue.js
-* Next.js
-* Nuxt.js
-* JavaScript
-* TypeScript
-* Pinia
-* Quasar
-* Server-side rendering
-* SEO-oriented web applications
+My primary engineering interests are backend architecture, API design, microservices, event-driven systems, distributed systems, data architecture, and scalable application design.
 
-My frontend work focuses on maintainable application architecture, performance, usability, and integration with scalable backend services.
-
----
-
-## Cloud, DevOps & Infrastructure
-
-My cloud and infrastructure experience and learning focus include:
-
-* Amazon Web Services (AWS)
-* Amazon S3
-* Amazon ECR
-* Amazon EC2
-* Amazon ECS
-* Docker
-* Jenkins
-* CI/CD
-* Terraform
-* Kubernetes
-* Amazon EKS
-* Infrastructure as Code
-* Containerized deployments
-* Cloud-native architecture
-
-I am continuing to deepen my practical experience with **Kubernetes, Terraform, cloud infrastructure automation, observability, security, and DevSecOps**.
-
----
-
-## DevSecOps & Application Security
-
-Security is an important part of my engineering direction.
-
-My interests include:
-
-* Secure application architecture
-* Authentication and authorization
-* Identity and access management
-* SSO architecture
-* JWT and token security
-* Session management
-* TOTP
-* Passkeys / WebAuthn
-* Secrets management
-* Container security
-* CI/CD security
-* Infrastructure security
-* Dependency security
-* Secure API design
-* Security automation
-
-My goal is to build software where security is considered throughout development, deployment, and infrastructure operations rather than treated as a separate final step.
-
----
-
-## Databases & Data Technologies
-
-I have worked with or explored:
-
-* PostgreSQL
-* MongoDB
-* Redis
-* Elasticsearch
-* Neo4j
-* SQL
-* Prisma
-* Database-per-service architecture
-* Caching strategies
-* Search systems
-* Graph databases
-* Vector and AI-oriented data architectures
-
----
-
-## Architecture & Distributed Systems
-
-I am particularly interested in:
-
-* Microservices
-* Distributed systems
-* Event-driven architecture
-* Message queues
-* Apache Kafka
-* gRPC
-* API gateways
-* Backend-for-Frontend architecture
-* Service-to-service communication
-* Database-per-service architecture
-* Horizontal scalability
-* Fault tolerance
-* Authentication infrastructure
-* Cloud-native systems
-
-I prefer understanding the trade-offs behind an architecture instead of applying a particular technology simply because it is popular.
-
----
-
-## Selected Technologies
-
-### Languages
-
-`TypeScript` · `JavaScript` · `Java` · `SQL`
+**Technologies:**  
+`Node.js` · `NestJS` · `TypeScript` · `Java` · `Spring Boot` · `REST` · `GraphQL` · `gRPC` · `Apache Kafka`
 
 ### Frontend
 
-`React` · `Vue.js` · `Next.js` · `Nuxt.js` · `Quasar`
+I build modern web applications with an emphasis on maintainable architecture, performance, and strong integration with backend services.
 
-### Backend
+**Technologies:**  
+`React` · `Vue.js` · `Next.js` · `Nuxt.js` · `TypeScript` · `JavaScript` · `Pinia` · `Quasar`
 
-`Node.js` · `NestJS` · `Spring Boot` · `REST` · `GraphQL` · `gRPC`
+### Cloud & DevOps
 
-### Databases
+I work with cloud infrastructure and containerized application delivery, while continuing to deepen my practical experience in infrastructure automation and Kubernetes.
 
-`PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch` · `Neo4j`
-
-### Cloud & Infrastructure
-
-`AWS` · `Docker` · `Jenkins` · `Terraform` · `Kubernetes` · `Amazon EKS` · `Amazon ECS` · `Amazon ECR` · `Amazon S3`
-
-### Messaging & Distributed Systems
-
-`Apache Kafka` · `Event-Driven Architecture` · `Microservices` · `Distributed Systems`
+**Technologies:**  
+`AWS` · `Docker` · `ECS` · `ECR` · `EC2` · `S3` · `Jenkins` · `CI/CD` · `Terraform` · `Kubernetes` · `EKS`
 
 ### Security
 
-`Spring Security` · `JWT` · `SSO` · `TOTP` · `WebAuthn` · `Passkeys`
+I’m interested in building security into application and infrastructure design rather than treating it as a final development step.
 
-### AI & Emerging Technology
+Areas of interest include:
 
-`AI Applications` · `LLM Applications` · `RAG` · `Multimodal AI` · `AI Automation`
+`Authentication` · `Authorization` · `SSO` · `JWT` · `Session Management` · `TOTP` · `Passkeys/WebAuthn` · `Application Security` · `Container Security` · `CI/CD Security`
+
+### Data
+
+`PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch` · `Neo4j` · `Prisma`
+
+---
+
+## Founder & Product Builder
+
+Beyond client and professional engineering work, I am building and exploring my own software products.
+
+My product interests include:
+
+- AI-powered applications
+- Developer and engineering tools
+- Cloud and deployment automation
+- Business workflow automation
+- SaaS platforms
+- Security and identity systems
+- Data and media intelligence
+
+I approach product development from both an engineering and product perspective — understanding the problem, validating the opportunity, designing the solution, building the system, and iterating toward a useful product.
+
+Detailed information about private products is intentionally not published while they are under development.
 
 ---
 
 ## Professional Experience
 
-I currently work as a Software Engineer at **Emperor Brains IT Solutions LLP**, where I have worked across modern application architecture, backend systems, databases, cloud services, and distributed application patterns.
+I currently work as a Software Engineer at **Emperor Brains IT Solutions LLP**, where I have worked across backend systems, full-stack applications, databases, cloud services, microservices, and distributed application patterns.
 
-My professional experience includes working with:
+My professional work has included technologies and systems involving:
 
-* Microservices
-* AWS services
-* Docker
-* GraphQL
-* Event-driven architecture
-* PostgreSQL
-* MongoDB
-* Redis
-* Elasticsearch
-* Neo4j
-* Modern frontend frameworks
-* Backend API development
-* Application architecture
+`Node.js` · `NestJS` · `Java` · `Spring Boot` · `React` · `Vue` · `AWS` · `Docker` · `PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch` · `Neo4j` · `GraphQL` · `Event-Driven Architecture`
 
-I have worked across different stages of application development, from implementing features and APIs to understanding system architecture, databases, infrastructure, and deployment.
-
-See [professional experience](experience.md).
+[View professional experience →](experience.md)
 
 ---
 
-## Selected Projects
+## Selected Work
 
-My project work spans SaaS applications, business platforms, backend systems, authentication infrastructure, media processing, AI applications, and cloud-native systems.
+My engineering work has covered different types of software, including:
 
-Some areas I have worked on include:
+- Enterprise business applications
+- HR and finance platforms
+- Restaurant and operational systems
+- Warehouse and scanning applications
+- Clinical laboratory software
+- Import/export business platforms
+- Authentication and SSO systems
+- Media processing and AI applications
+- Cloud and deployment tooling
 
-* Enterprise HR management systems
-* Finance management platforms
-* Restaurant applications
-* Clinical laboratory software
-* Warehouse and scanning applications
-* Import/export business platforms
-* Authentication and SSO systems
-* Video processing and extraction platforms
-* AI-powered applications
-* Cloud deployment systems
-* Microservices platforms
-
-See [projects](projects.md) for more information.
+[Explore projects →](projects.md)
 
 ---
 
-## Current Engineering Interests
+## Currently Exploring
 
-I am currently particularly interested in building systems around:
+I’m currently spending time deepening my knowledge and practical experience in:
 
-### Cloud-Native Applications
-
-Designing applications that can run efficiently using containers, cloud infrastructure, automated deployment, and scalable service architectures.
-
-### DevOps & DevSecOps
-
-Improving the software delivery lifecycle through CI/CD, infrastructure automation, security automation, containerization, and cloud-native practices.
-
-### Backend & Distributed Systems
-
-Designing reliable backend services using microservices, event-driven architecture, gRPC, messaging systems, caching, and scalable databases.
-
-### AI Engineering
-
-Building practical AI applications around LLMs, multimodal processing, RAG, intelligent automation, and AI-assisted developer workflows.
-
-### Developer Infrastructure
-
-Building tools that make application deployment, infrastructure management, development workflows, and operational tasks easier for engineers.
+- Kubernetes and container orchestration
+- Terraform and Infrastructure as Code
+- AWS cloud architecture
+- DevSecOps
+- Distributed systems
+- AI engineering
+- LLM applications and RAG
+- Developer infrastructure
+- Product development
 
 ---
 
 ## Education
 
-**Master of Computer Applications (MCA)**
-Jain (Deemed-to-be University)
+**Master of Computer Applications (MCA)**  
+Jain (Deemed-to-be) University
 
 **Bachelor of Computer Applications (BCA)**
 
-See [education](education.md).
+[View education →](education.md)
 
 ---
 
 ## Engineering Philosophy
 
-I believe good software engineering is about more than choosing frameworks.
+I care about more than making software work.
 
-A production system needs to consider:
+I try to understand the complete system:
 
-* Architecture
-* Reliability
-* Security
-* Performance
-* Scalability
-* Maintainability
-* Observability
-* Developer experience
-* Operational complexity
-* Cost
+**Architecture → Code → Data → Infrastructure → Security → Deployment → Operations**
 
-I try to approach engineering problems from the perspective of the complete system rather than an individual component.
+Good engineering, in my view, requires understanding the trade-offs between scalability, reliability, security, maintainability, developer experience, and cost.
 
 ---
 
-## Explore This Repository
+## Explore
 
-* [About Dharmik Bhesaniya](about.md)
-* [Professional Experience](experience.md)
-* [Technical Skills](skills.md)
-* [Projects](projects.md)
-* [Education](education.md)
-* [Backend Engineering](backend-engineering.md)
-* [Cloud & DevOps](cloud-devops.md)
-* [DevSecOps](devsecops.md)
-* [Architecture Notes](docs/architecture.md)
-* [Microservices Notes](docs/microservices.md)
-* [Engineering Notes](docs/engineering-notes.md)
+- [About Me](about.md)
+- [Professional Experience](experience.md)
+- [Technical Skills](skills.md)
+- [Projects](projects.md)
+- [Education](education.md)
+- [Backend Engineering](backend-engineering.md)
+- [Cloud & DevOps](cloud-devops.md)
+- [DevSecOps](devsecops.md)
+- [Architecture Notes](docs/architecture.md)
+- [Microservices Notes](docs/microservices.md)
+- [Engineering Notes](docs/engineering-notes.md)
 
 ---
 
 ## Connect
 
-GitHub: [github.com/dharmikbhesaniya](https://github.com/dharmikbhesaniya)
-
----
-
-## Keywords
-
-Dharmik Bhesaniya, Software Engineer, Full-Stack Engineer, Backend Engineer, Node.js Developer, NestJS Developer, Java Developer, Spring Boot Developer, TypeScript Developer, JavaScript Developer, React Developer, Vue Developer, Next.js Developer, Nuxt.js Developer, AWS Engineer, Cloud Engineer, DevOps Engineer, DevSecOps Engineer, Microservices Engineer, Backend Developer, Cloud-Native Engineer, Distributed Systems Engineer, Software Architecture, AWS, Docker, Kubernetes, Terraform, Jenkins, PostgreSQL, MongoDB, Redis, Elasticsearch, Neo4j, Kafka, GraphQL, gRPC, Microservices, Distributed Systems, CI/CD, Cloud Infrastructure, Application Security.
-
+**GitHub:** [github.com/dharmikbhesaniya](https://github.com/dharmikbhesaniya)
